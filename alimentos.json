@@ -1,0 +1,72 @@
+[
+    {
+        "nombre": "Sándwich de Jamón",
+        "precio": 50,
+        "tamaño": "Normal",
+        "descripcion": "Sándwich con jamón y lechuga.",
+        "tipo": "Comida"
+    },
+    {
+        "nombre": "Pastel de Chocolate",
+        "precio": 40,
+        "tamaño": "Individual",
+        "descripcion": "Pastel suave y delicioso.",
+        "tipo": "Postre"
+    },
+    {
+        "nombre": "Ensalada César",
+        "precio": 60,
+        "tamaño": "Grande",
+        "descripcion": "Ensalada fresca con pollo.",
+        "tipo": "Comida"
+    },
+    {
+        "nombre": "Pizza Personal",
+        "precio": 70,
+        "tamaño": "Personal",
+        "descripcion": "Pizza con tus ingredientes favoritos.",
+        "tipo": "Comida"
+    },
+    {
+        "nombre": "Galletas",
+        "precio": 25,
+        "tamaño": "Paquete",
+        "descripcion": "Galletas crujientes.",
+        "tipo": "Postre"
+    },
+    {
+        "nombre": "Tacos de Pollo",
+        "precio": 55,
+        "tamaño": "Normal",
+        "descripcion": "Tacos con pollo y salsa.",
+        "tipo": "Comida"
+    },
+    {
+        "nombre": "Nachos con Queso",
+        "precio": 45,
+        "tamaño": "Porción",
+        "descripcion": "Nachos con queso derretido.",
+        "tipo": "Aperitivo"
+    },
+    {
+        "nombre": "Sopa de Tortilla",
+        "precio": 35,
+        "tamaño": "Normal",
+        "descripcion": "Sopa caliente con tortilla y pollo.",
+        "tipo": "Comida"
+    },
+    {
+        "nombre": "Brownie",
+        "precio": 30,
+        "tamaño": "Individual",
+        "descripcion": "Brownie de chocolate.",
+        "tipo": "Postre"
+    },
+    {
+        "nombre": "Empanadas",
+        "precio": 40,
+        "tamaño": "Porción",
+        "descripcion": "Empanadas rellenas de carne.",
+        "tipo": "Comida"
+    }
+]

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bebidas>
+    <bebida>
+        <nombre>Café Americano</nombre>
+        <precio>20.00</precio>
+        <tamaño>Mediano</tamaño>
+        <descripcion>Café negro, fuerte y aromático.</descripcion>
+        <tipo>Bebida caliente</tipo>
+    </bebida>
+    <bebida>
+        <nombre>Capuchino</nombre>
+        <precio>30.00</precio>
+        <tamaño>Grande</tamaño>
+        <descripcion>Café con espuma de leche.</descripcion>
+        <tipo>Bebida caliente</tipo>
+    </bebida>
+    <bebida>
+        <nombre>Té Verde</nombre>
+        <precio>15.00</precio>
+        <tamaño>Pequeño</tamaño>
+        <descripcion>Té suave y saludable.</descripcion>
+        <tipo>Bebida fría</tipo>
+    </bebida>
+    <bebida>
+        <nombre>Frappé de Fresa</nombre>
+        <precio>35.00</precio>
+        <tamaño>Grande</tamaño>
+        <descripcion>Bebida fría de fresa y crema.</descripcion>
+        <tipo>Bebida fría</tipo>
+    </bebida>
+    <bebida>
+        <nombre>Jugo de Naranja</nombre>
+        <precio>20.00</precio>
+        <tamaño>Mediano</tamaño>
+        <descripcion>Jugo fresco de naranja.</descripcion>
+        <tipo>Bebida fría</tipo>
+    </bebida>
+    <bebida>
+        <nombre>Agua Mineral</nombre>
+        <precio>10.00</precio>
+        <tamaño>Botella</tamaño>
+        <descripcion>Agua purificada.</descripcion>
+        <tipo>Bebida fría</tipo>
+    </bebida>
+    <bebida>
+        <nombre>Chocolate Caliente</nombre>
+        <precio>25.00</precio>
+        <tamaño>Mediano</tamaño>
+        <descripcion>Bebida dulce y reconfortante.</descripcion>
+        <tipo>Bebida caliente</tipo>
+    </bebida>
+    <bebida>
+        <nombre>Batido de Plátano</nombre>
+        <precio>30.00</precio>
+        <tamaño>Grande</tamaño>
+        <descripcion>Batido cremoso de plátano.</descripcion>
+        <tipo>Bebida fría</tipo>
+    </bebida>
+    <bebida>
+        <nombre>Latte</nombre>
+        <precio>30.00</precio>
+        <tamaño>Grande</tamaño>
+        <descripcion>Café con mucha leche y espuma.</descripcion>
+        <tipo>Bebida caliente</tipo>
+    </bebida>
+    <bebida>
+        <nombre>Agua de Sabor</nombre>
+        <precio>15.00</precio>
+        <tamaño>Mediano</tamaño>
+        <descripcion>Agua con sabor natural.</descripcion>
+        <tipo>Bebida fría</tipo>
+    </bebida>
+</bebidas>
